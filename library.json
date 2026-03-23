@@ -9,8 +9,8 @@
 	},
 	"build": {
 		"flags": [
-            "-ICanOpenNode_STM32",
-			"-ICanOpenNode"
+            "-ICANOpenNode_STM32",
+			"-ICANOpenNode"
         ],
 	},
 	"license": "MIT License",
