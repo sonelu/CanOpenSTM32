@@ -7,6 +7,9 @@
 		"type": "git",
 		"url": "https://github.com/sonelu/CanOpenSTM32.git"
 	},
+	"dependencies": {
+		"CANOpenNode": "https://github.com/sonelu/CANopenNode.git",
+	},
 	"build": {
 		"includeDir": "CANopenNode_STM32/"
 	},
