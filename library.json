@@ -1,0 +1,17 @@
+{
+	"name": "CANOpenSTM32",
+	"version": "4.0.0",
+	"keywords": "CAN, CANOpen",
+	"description": "CANopenSTM32 is a CANopen stack running on STM32 microcontroller based on CANOpenNode stack.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sonelu/CanOpenSTM32.git"
+	},
+	"build": {
+		"includeDir": "CANopenNode_STM32/"
+	},
+	"license": "MIT License",
+	"homepage": "https://github.com/CANopenNode/CanOpenSTM32",
+	"frameworks": "stm32cube",
+	"platforms": "ststm32"
+}
