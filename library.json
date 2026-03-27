@@ -11,7 +11,7 @@
 		"flags": [
             "-ICANOpenNode_STM32",
 			"-ICANOpenNode"
-        ],
+        ]
 	},
 	"license": "MIT License",
 	"homepage": "https://github.com/CANopenNode/CanOpenSTM32",
